@@ -1,0 +1,24 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#E9E9E5"/>
+  <rect x="10" y="10" width="460" height="300" fill="none" stroke="#C8CDD2" stroke-width="1"/>
+  <rect x="40" y="60" width="400" height="220" fill="#F4F4F1" stroke="#9AA0A6" stroke-width="1.5"/>
+  <!-- door -->
+  <rect x="95" y="85" width="75" height="140" fill="#D8CFC0" stroke="#33363A" stroke-width="2"/>
+  <circle cx="155" cy="155" r="2.5" fill="#33363A"/>
+  <g stroke="#9AA9B4" stroke-width="1">
+    <line x1="100" y1="70" x2="95" y2="88"/>
+    <line x1="120" y1="65" x2="115" y2="83"/>
+    <line x1="150" y1="70" x2="145" y2="88"/>
+    <line x1="175" y1="65" x2="170" y2="83"/>
+    <line x1="200" y1="70" x2="195" y2="88"/>
+  </g>
+  <rect x="230" y="190" width="150" height="55" rx="4" fill="#E3E0DA" stroke="#33363A" stroke-width="1.5"/>
+  <rect x="230" y="175" width="150" height="20" rx="4" fill="#EAE7E1" stroke="#33363A" stroke-width="1.5"/>
+  <g stroke="#33363A" stroke-width="1.5">
+    <rect x="260" y="255" width="70" height="8" fill="#B9B2A6"/>
+    <line x1="266" y1="263" x2="266" y2="278"/>
+    <line x1="324" y1="263" x2="324" y2="278"/>
+  </g>
+  <rect x="345" y="150" width="45" height="55" rx="3" fill="#4E7EA5" opacity="0.45" stroke="#33363A" stroke-width="1.5"/>
+  <text x="240" y="35" text-anchor="middle" font-family="monospace" font-size="13" fill="#747B82">PHOTO PLACEHOLDER — DOOR / RAIN</text>
+</svg>

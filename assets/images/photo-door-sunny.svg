@@ -1,0 +1,21 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#EFEEE8"/>
+  <rect x="10" y="10" width="460" height="300" fill="none" stroke="#C8CDD2" stroke-width="1"/>
+  <rect x="40" y="60" width="400" height="220" fill="#F6F5F0" stroke="#9AA0A6" stroke-width="1.5"/>
+  <rect x="95" y="85" width="75" height="140" fill="#EAE0C6" stroke="#33363A" stroke-width="2"/>
+  <circle cx="155" cy="155" r="2.5" fill="#33363A"/>
+  <circle cx="120" cy="90" r="14" fill="none" stroke="#C79B3B" stroke-width="2"/>
+  <g stroke="#C79B3B" stroke-width="1.5">
+    <line x1="120" y1="68" x2="120" y2="62"/>
+    <line x1="98" y1="90" x2="92" y2="90"/>
+  </g>
+  <rect x="230" y="190" width="150" height="55" rx="4" fill="#E3E0DA" stroke="#33363A" stroke-width="1.5"/>
+  <rect x="230" y="175" width="150" height="20" rx="4" fill="#EAE7E1" stroke="#33363A" stroke-width="1.5"/>
+  <g stroke="#33363A" stroke-width="1.5">
+    <rect x="260" y="255" width="70" height="8" fill="#B9B2A6"/>
+    <line x1="266" y1="263" x2="266" y2="278"/>
+    <line x1="324" y1="263" x2="324" y2="278"/>
+  </g>
+  <rect x="345" y="150" width="45" height="55" rx="3" fill="#4E7EA5" opacity="0.45" stroke="#33363A" stroke-width="1.5"/>
+  <text x="240" y="35" text-anchor="middle" font-family="monospace" font-size="13" fill="#747B82">PHOTO PLACEHOLDER — DOOR / SUNNY</text>
+</svg>

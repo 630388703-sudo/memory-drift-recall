@@ -1,0 +1,35 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#E9E9E5"/>
+  <rect x="10" y="10" width="460" height="300" fill="none" stroke="#C8CDD2" stroke-width="1"/>
+  <!-- room outline -->
+  <rect x="40" y="60" width="400" height="220" fill="#F4F4F1" stroke="#9AA0A6" stroke-width="1.5"/>
+  <!-- window -->
+  <rect x="80" y="90" width="110" height="130" fill="#DDE3E7" stroke="#33363A" stroke-width="2"/>
+  <line x1="135" y1="90" x2="135" y2="220" stroke="#33363A" stroke-width="1.5"/>
+  <line x1="80" y1="155" x2="190" y2="155" stroke="#33363A" stroke-width="1.5"/>
+  <!-- rain lines -->
+  <g stroke="#9AA9B4" stroke-width="1">
+    <line x1="90" y1="95" x2="85" y2="115"/>
+    <line x1="105" y1="100" x2="100" y2="120"/>
+    <line x1="120" y1="95" x2="115" y2="115"/>
+    <line x1="150" y1="100" x2="145" y2="120"/>
+    <line x1="170" y1="95" x2="165" y2="115"/>
+    <line x1="95" y1="160" x2="90" y2="180"/>
+    <line x1="130" y1="165" x2="125" y2="185"/>
+    <line x1="160" y1="160" x2="155" y2="180"/>
+  </g>
+  <!-- sofa -->
+  <rect x="230" y="190" width="150" height="55" rx="4" fill="#E3E0DA" stroke="#33363A" stroke-width="1.5"/>
+  <rect x="230" y="175" width="150" height="20" rx="4" fill="#EAE7E1" stroke="#33363A" stroke-width="1.5"/>
+  <!-- table -->
+  <rect x="260" y="255" width="70" height="8" fill="#B9B2A6" stroke="#33363A" stroke-width="1"/>
+  <line x1="266" y1="263" x2="266" y2="278"/>
+  <line x1="324" y1="263" x2="324" y2="278"/>
+  <g stroke="#33363A" stroke-width="1.5">
+    <line x1="266" y1="263" x2="266" y2="278"/>
+    <line x1="324" y1="263" x2="324" y2="278"/>
+  </g>
+  <!-- red chair -->
+  <rect x="345" y="150" width="45" height="55" rx="3" fill="#C94C4C" opacity="0.55" stroke="#33363A" stroke-width="1.5"/>
+  <text x="240" y="35" text-anchor="middle" font-family="monospace" font-size="13" fill="#747B82">PHOTO PLACEHOLDER — WINDOW / RAIN</text>
+</svg>

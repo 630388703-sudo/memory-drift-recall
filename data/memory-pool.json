@@ -1,0 +1,27 @@
+{
+  "weights": {
+    "object": { "window": 0.50, "door": 0.35, "mirror": 0.15 },
+    "date": { "2018": 0.55, "2019": 0.45 },
+    "weather": { "rain": 0.60, "sunny": 0.40 }
+  },
+  "maxWeight": 0.75,
+  "weightStep": 0.08,
+  "evidenceCards": {
+    "date": [
+      { "id": "2018", "label": "2018.07.12" },
+      { "id": "2019", "label": "2019.07.21" }
+    ],
+    "object": [
+      { "id": "window", "label": "WINDOW" },
+      { "id": "door", "label": "DOOR" }
+    ],
+    "weather": [
+      { "id": "rain", "label": "RAIN" },
+      { "id": "sunny", "label": "SUNNY" }
+    ],
+    "person": [
+      { "id": "girl", "label": "GIRL" },
+      { "id": "mother", "label": "MOTHER" }
+    ]
+  }
+}

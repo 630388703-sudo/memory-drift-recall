@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>MEMORY DRIFT: RECALL.exe</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div class="mobile-block">
+  <div>
+    <div style="font-size:14px;letter-spacing:0.08em;margin-bottom:10px;">MEMORY DRIFT: RECALL.exe</div>
+    <div>DESKTOP TERMINAL REQUIRED</div>
+  </div>
+</div>
+
+<!-- Boot screen -->
+<div id="screen-boot">
+  <div class="boot-box">
+    <h1>MEMORY RECOVERY SYSTEM</h1>
+    <div class="boot-meta">
+      <div class="row"><span class="k">ARCHIVE</span><span class="v">#0712</span></div>
+      <div class="row"><span class="k">OWNER</span><span class="v">UNKNOWN</span></div>
+      <div class="row"><span class="k">DATE</span><span class="v">PARTIALLY CORRUPTED</span></div>
+      <div class="row"><span class="k">RECOVERY</span><span class="v">23%</span></div>
+    </div>
+    <div class="progress-track"><div class="progress-fill"></div></div>
+    <div id="boot-actions">
+      <button class="btn btn-solid" id="btn-start-recovery">[ START RECOVERY ]</button>
+    </div>
+  </div>
+</div>
+
+<!-- Main app shell -->
+<div id="app">
+  <div id="topbar">
+    <div class="tb-left">
+      <span class="mdr-mark">MDR</span>
+      <span class="mdr-title">MEMORY DRIFT: RECALL.exe</span>
+    </div>
+    <div class="tb-center" id="tb-center-text"></div>
+    <div class="tb-right">
+      <span class="status-dot"></span>
+      <span class="status-label" id="status-label">STANDBY</span>
+    </div>
+  </div>
+
+  <div id="main-layout">
+    <div id="navbar">
+      <div class="nav-item active" data-nav="ARCHIVE">ARCHIVE</div>
+      <div class="nav-item" data-nav="CASES">CASES</div>
+      <div class="nav-item" data-nav="LOGS">LOGS</div>
+      <div class="nav-item" data-nav="CATALOG">CATALOG</div>
+      <div class="nav-item" data-nav="NOTES">NOTES</div>
+      <div class="nav-item" data-nav="SETTINGS">SETTINGS</div>
+    </div>
+
+    <div id="content"></div>
+
+    <div id="infopanel">
+      <div id="archive-info"></div>
+      <div id="syslog">
+        <h4>SYSTEM LOG</h4>
+        <div id="syslog-lines"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<div id="overlay" class="hidden"></div>
+
+<div id="screen-reveal" class="hidden"></div>
+
+<div id="debug-panel" class="hidden"></div>
+
+<script src="config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

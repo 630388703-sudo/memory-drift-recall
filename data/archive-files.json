@@ -1,0 +1,15 @@
+{
+  "baseFiles": [
+    { "id": "photo", "name": "PHOTO_01.jpg", "icon": "image" },
+    { "id": "chat", "name": "CHAT_LOG.txt", "icon": "text" },
+    { "id": "location", "name": "LOCATION.dat", "icon": "data" },
+    { "id": "voice", "name": "VOICE_03.wav", "icon": "audio" },
+    { "id": "unknown", "name": "UNKNOWN", "icon": "locked" },
+    { "id": "trash", "name": "TRASH", "icon": "trash" }
+  ],
+  "unlockFilesByObject": {
+    "window": { "id": "window_record", "name": "WINDOW_RECORD.dat", "icon": "data" },
+    "door": { "id": "door_record", "name": "DOOR_RECORD.dat", "icon": "data" }
+  },
+  "conflictFile": { "id": "conflict", "name": "DO_NOT_DELETE.pdf", "icon": "conflict" }
+}
