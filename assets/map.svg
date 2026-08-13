@@ -1,5 +1,0 @@
-Exit code: 0
-Wall time: 1 seconds
-Output:
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420"><rect width="700" height="420" fill="#d9d8d0"/><g fill="none" stroke="#9ba4a2" stroke-width="7"><path d="M-30 90C160 130 220 20 370 70s180 120 370 80"/><path d="M90-20c60 120-10 270 80 470M480-20c-50 150 70 240 40 470"/><path d="M-20 320c180-70 300 20 730-60"/></g><g fill="#bdc0b9" stroke="#8f9490"><rect x="230" y="150" width="180" height="100"/><rect x="40" y="180" width="105" height="90"/><rect x="525" y="290" width="130" height="80"/></g><circle cx="320" cy="205" r="15" fill="#a75f5a"/><circle cx="320" cy="205" r="35" fill="none" stroke="#a75f5a" opacity=".5"/><text x="340" y="198" fill="#515757" font-family="monospace" font-size="14">RESIDENCE 07-B</text></svg>
-
