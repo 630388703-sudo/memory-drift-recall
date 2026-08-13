@@ -1,0 +1,5 @@
+Exit code: 0
+Wall time: 3.8 seconds
+Output:
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620"><rect width="900" height="620" fill="#d6d7cf"/><rect y="390" width="900" height="230" fill="#b7b3a9"/><path d="M0 390h900M450 390v230M0 540h900" stroke="#92958e" opacity=".5"/><rect x="570" y="78" width="230" height="260" fill="#aebac0" stroke="#6f7779" stroke-width="8"/><path d="M685 78v260M570 208h230" stroke="#7e8d91" stroke-width="5"/><rect x="104" y="290" width="380" height="145" rx="9" fill="#858d88"/><rect x="130" y="260" width="150" height="70" rx="12" fill="#959c97"/><rect x="306" y="270" width="145" height="62" rx="10" fill="#787f7b"/><rect x="715" y="356" width="80" height="126" fill="#827a78"/><circle cx="755" cy="330" r="45" fill="#a5a397"/><rect x="56" y="96" width="205" height="128" fill="#c5c4bb" stroke="#777b78" stroke-width="4"/><path d="M73 196l54-52 39 30 35-48 44 70" fill="none" stroke="#7a898c" stroke-width="8"/><text x="32" y="590" fill="#646965" font-family="monospace" font-size="15">PLACEHOLDER / LIVING ROOM / 03:14</text></svg>
+
